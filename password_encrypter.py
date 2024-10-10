@@ -13,6 +13,11 @@ def encrypt_password(password):
     # open source, and anyone can decrypt the passwords). I AM NOT RESPONSIBLE
     # FOR ANY DATA LEAKS OR DAMAGE CAUSED BY THIS PROGRAM.
     
+    # README: Change the encryption method BEFORE publishing the program for production.
+    #         This file should ALWAYS be kept top secret. If you leak this file, users
+    #         can see exactly how their passwords are encrypted, and can decrypt them.
+    #         (This will be a huge security risk).
+    
     
     encrypted_password = ""
     
