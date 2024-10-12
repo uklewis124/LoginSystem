@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+pyLoginSystem/__init__.py
+pyLoginSystem/prepare_database.py
+pyLoginSystem.egg-info/PKG-INFO
+pyLoginSystem.egg-info/SOURCES.txt
+pyLoginSystem.egg-info/dependency_links.txt
+pyLoginSystem.egg-info/top_level.txt

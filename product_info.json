@@ -1,0 +1,14 @@
+{
+    "Version": "1.0",
+    "Details": {
+        "Name": "Account Manager",
+        "Description": "Account Manager is a simple application that allows you to manage your accounts.",
+        "Author": "Lewis Davies",
+        "Flags": {
+            "IsBeta": false,
+            "IsDev": false,
+            "IsDeprecated": true
+        },
+        "Patch Version": 1
+    }
+}
